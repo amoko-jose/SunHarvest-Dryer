@@ -20,7 +20,7 @@ By the end of this training, participants will be able to:
 1. [Introduction](README.md#introduction)
 2. [Principles of Operation](README.md#principles-of-operation)
 3. [Literature review and advantages of this prototype](Advantages%20of%20the%20SunHarvest%20Dryer.md)
-4. [Tools & Materials](Tools%20and%20materials%20used.md)
+4. [Tools & Materials](tools_materials_used.md)
 5. [Construction Steps](Step_by_Step_Construction_Procedure.md#step-by-step-guide)
     - [Build the Frame](/Step_by_Step_Construction_Procedure.md#step-1-build-the-frame)
     - [Install the Trays](/Step_by_Step_Construction_Procedure.md#step-2-install-the-trays)
